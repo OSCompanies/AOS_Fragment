@@ -1,6 +1,6 @@
 # Fragment 예제
 ## 설명 참고
-### <a href="https://spectacled-plastic-a9d.notion.site/Fragment-4a42ba052e4842e28d98001164751b7e">Notion - Fragment</a>
+### [Fragment.pdf](https://github.com/OSCompanies/AOS_Fragment/files/7955037/Fragment.pdf)
 
 ## 목차
 ### 1. Fragment 생성 및 Fragment 교체
